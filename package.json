@@ -1,0 +1,24 @@
+{
+  "name": "nginx",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+		"dev": "vitepress dev source",
+    "build": "vitepress build source",
+    "serve": "vitepress serve docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aaaaaAndy/nginx.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aaaaaAndy/nginx/issues"
+  },
+  "homepage": "https://github.com/aaaaaAndy/nginx#readme",
+  "devDependencies": {
+    "vitepress": "^0.22.4"
+  }
+}
